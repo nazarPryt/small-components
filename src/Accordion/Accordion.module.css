@@ -1,0 +1,12 @@
+.listWrapper {
+    display: flex;
+    flex-direction: column;
+}
+.itemWrapper {
+    /*display: inline-block;*/
+    list-style: none;
+    padding: 5px 0;
+    margin: 5px 0;
+    border: 1px solid green;
+    border-radius: 10px;
+}
